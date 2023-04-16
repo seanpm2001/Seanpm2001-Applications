@@ -5,6 +5,8 @@
 
 **[:octocat: Seanpm2001-Apps](https://github.com/seanpm2001/Seanpm2001-Apps/) redirects here.**
 
+Also, see [:octocat: `Seanpm2001-Programs`](https://github.com/seanpm2001/Seanpm2001-Programs/) for other software that isn't considered an application
+
 `2️⃣️0️⃣️0️⃣️1️⃣️💾️ Information on software applications/apps built by @seanpm2001 and his community.`
 
 ## Listing
@@ -84,10 +86,10 @@
 
 - [:octocat: `SNU 2D App Startup`](https://github.com/seanpm2001/SNU_2D_AppStartup/)
 
-> **Note** _This list may be incomplete._
+> **Note** _This list is incomplete._
 
 ***
 
-**File version:** `1 (2023, Saturday, April 15th at 7:13 pm PST)`
+**File version:** `2 (2023, Saturday, April 15th at 8:16 pm PST)`
 
 ***
